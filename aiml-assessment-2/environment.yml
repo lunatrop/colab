@@ -1,0 +1,10 @@
+name: aiml-assessment-2
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
